@@ -136,7 +136,7 @@ li{
 }
 
     
-button{
+.btn-cv{
     position: absolute;
     top: 22%;
     left: 50%;
@@ -149,6 +149,9 @@ button{
     border: none;
     cursor: pointer;
     border-radius: 5px;
+    display: flex;
+    margin-bottom: 2em;
+    margin-top: 2em;
 }    
     
 .h2-cv{
@@ -182,11 +185,6 @@ ol{
     font-family: 'Open Sans', sans-serif;
     max-width: 800px
 }
-.btn-cv{
-    display: flex;
-    margin-bottom: 2em;
-}
-
 
 
  /* My projects */
