@@ -3,6 +3,10 @@
     background-color:rgb(28, 28, 31)
 }
 
+.active{
+    border-bottom: 3px solid white;
+}
+
 header{
     display: flex;
     justify-content: space-evenly;
